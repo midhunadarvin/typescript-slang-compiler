@@ -1,0 +1,19 @@
+{
+  "name": "typescript-slang-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slang",
+    "compiler"
+  ],
+  "author": "midhunadarvin",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}

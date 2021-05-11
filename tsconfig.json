@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "strictPropertyInitialization": true,
+      "strictBindCallApply": true,
+      "noImplicitThis": true,
+      "noImplicitReturns": true,
+      "alwaysStrict": true,
+      "esModuleInterop": true,
+      "declaration": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "moduleResolution": "node",
+      "target": "es5",
+      "rootDir": "src",
+      "outDir": "dist"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+  }
